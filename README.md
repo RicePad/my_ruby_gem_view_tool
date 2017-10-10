@@ -1,6 +1,6 @@
 # JonliViewTool
 
-A gem that provides various view specific methods for applications ie: trademark statement on a website.
+A gem that provides various view specific methods for applications ie: trademark statement on a website
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-JonliViewTool::Renderer.copyright 'Jonathan Li', 'All rights reserved'
+TODO: JonliViewTool::Renderer.copyright 'Jonathan Li', 'All rights reserved'
 
 
 ## Development
