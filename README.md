@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: JonliViewTool::Renderer.copyright 'Jonathan Li', 'All rights reserved'
+TODO: 
+ ```ruby
+ JonliViewTool::Renderer.copyright 'Jonathan Li', 'All rights reserved'
+ ```
 
 
 ## Development
