@@ -20,7 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+JonliViewTool::Renderer.copyright 'Jonathan Li', 'All rights reserved'
+
 
 ## Development
 
